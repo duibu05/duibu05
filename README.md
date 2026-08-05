@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there👋
 
-<!--
-**duibu05/duibu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 About Me
+- 🔭 Frontend / full-stack engineer(Node.js), recently exploring AI engineering.
+- 🌱 I'm currently learning **agent orchestration, LLM evaluation patterns, and AI tooling internals**.
+- 📫 How to reach me: **duibu05@126.com** · Beijing, China
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Open Source Contributions
+
+| Project | Role | What I did | Link |
+| :--- | :--- | :--- | :--- |
+| **axios** | Contributor | Contributions to the world's most-adopted HTTP client. | [PR list →](https://github.com/axios/axios/pulls?q=author%3Aduibu05) |
+| **metabase-doris-driver** | Contributor | Apache Doris driver for Metabase. | [PR list →](https://github.com/ihadoop/metabase-doris-driver/pulls?q=author%3Aduibu05) |
+
+
+---
+
