@@ -7,13 +7,10 @@
 
 ---
 
-### 🏆 Open Source Contributions
+### 🏆 Open Source
 
-| Project | Role | What I did | Link |
-| :--- | :--- | :--- | :--- |
-| **axios** | Contributor | Contributions to the world's most-adopted HTTP client. | [PR list →](https://github.com/axios/axios/pulls?q=author%3Aduibu05) |
-| **metabase-doris-driver** | Contributor | Apache Doris driver for Metabase. | [PR list →](https://github.com/ihadoop/metabase-doris-driver/pulls?q=author%3Aduibu05) |
-
+  - [axios](https://github.com/axios/axios/pulls?q=author%3Aduibu05) — contributor
+  - [metabase-doris-driver](https://github.com/ihadoop/metabase-doris-driver/pulls?q=author%3Aduibu05) — contributor
 
 ---
 
