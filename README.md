@@ -3,7 +3,6 @@
 ### 🎯 About Me
 - 🔭 Frontend / full-stack engineer(Node.js), recently exploring AI engineering.
 - 🌱 I'm currently learning **agent orchestration, LLM evaluation patterns, and AI tooling internals**.
-- 📫 How to reach me: **duibu05@126.com** · Beijing, China
 
 ---
 
